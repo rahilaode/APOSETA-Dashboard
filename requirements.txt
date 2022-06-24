@@ -1,0 +1,6 @@
+plotly==5.5.0
+pandas==1.2.0
+streamlit==0.86.0
+openpyxl==3.0.6
+matplotlib
+hydralit_components
